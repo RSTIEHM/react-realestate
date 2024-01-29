@@ -1,0 +1,124 @@
+{
+  "realEstateItems": [
+    {
+      "id": 1,
+      "title": "Brooklyn Apartment",
+      "state": "NY",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "San Diego Condo",
+      "state": "CA",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "Boston Townhouse",
+      "state": "MA",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "San Francisco Loft",
+      "state": "CA",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Vermont Cottage",
+      "state": "VT",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "title": "Florida Beach House",
+      "state": "FL",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "Philadelphia Brownstone",
+      "state": "PA",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "title": "Colorado Cabin",
+      "state": "CO",
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "title": "Chicago Penthouse",
+      "state": "IL",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "title": "Montana Log Cabin",
+      "state": "MT",
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "title": "Miami Beachfront Villa",
+      "state": "FL",
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "title": "Seattle Townhome",
+      "state": "WA",
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "title": "Beverly Hills Mansion",
+      "state": "CA",
+      "rating": 5
+    },
+    {
+      "id": 14,
+      "title": "Iowa Farmhouse",
+      "state": "IA",
+      "rating": 3
+    },
+    {
+      "id": 15,
+      "title": "New Orleans Studio",
+      "state": "LA",
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "title": "Michigan Lakefront Cabin",
+      "state": "MI",
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "title": "Aspen Ski Chalet",
+      "state": "CO",
+      "rating": 4
+    },
+    {
+      "id": 18,
+      "title": "Hawaii Beach Bungalow",
+      "state": "HI",
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "title": "Texas Ranch",
+      "state": "TX",
+      "rating": 3
+    },
+    {
+      "id": 20,
+      "title": "Atlanta Loft",
+      "state": "GA",
+      "rating": 4
+    }
+  ]
+}

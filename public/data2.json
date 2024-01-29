@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "Spacious Apartment in Brooklyn",
+    "state": "NY",
+    "rating": 4,
+    "description": "A modern and spacious apartment located in the heart of Brooklyn.",
+    "activities": ["Shopping", "Dining", "Cultural Events"],
+    "amenities": ["Balcony", "Gym", "Security System"]
+  },
+  {
+    "id": 2,
+    "title": "Luxury Condo with City Views",
+    "state": "CA",
+    "rating": 5,
+    "description": "A luxurious condo offering breathtaking city views in sunny California.",
+    "activities": ["Beach Activities", "Fine Dining", "Entertainment"],
+    "amenities": ["Swimming Pool", "Fitness Center", "Concierge"]
+  },
+  {
+    "id": 3,
+    "title": "Cozy Townhouse in Boston",
+    "state": "MA",
+    "rating": 3,
+    "description": "A charming townhouse nestled in the historic city of Boston.",
+    "activities": ["Historical Tours", "Shopping", "Parks"],
+    "amenities": ["Fireplace", "Private Garden", "Parking"]
+  },
+  {
+    "id": 4,
+    "title": "Modern Loft in San Francisco",
+    "state": "CA",
+    "rating": 4,
+    "description": "A stylish and modern loft located in the vibrant city of San Francisco.",
+    "activities": ["Tech Events", "Art Galleries", "Nightlife"],
+    "amenities": ["Open Layout", "High Ceilings", "Roof Deck"]
+  },
+  {
+    "id": 5,
+    "title": "Charming Cottage in Vermont",
+    "state": "VT",
+    "rating": 5,
+    "description": "A charming cottage surrounded by nature in the picturesque state of Vermont.",
+    "activities": ["Hiking", "Skiing", "Farmers Markets"],
+    "amenities": ["Wood-Burning Stove", "Scenic Views", "Deck"]
+  },
+  {
+    "id": 6,
+    "title": "Sunny Beach House in Florida",
+    "state": "FL",
+    "rating": 4,
+    "description": "A sunny beach house perfect for a tropical getaway in Florida.",
+    "activities": ["Beach Relaxation", "Water Sports", "Seafood Dining"],
+    "amenities": ["Beachfront Access", "Pool", "Outdoor Grill"]
+  },
+  {
+    "id": 7,
+    "title": "Historic Brownstone in Philadelphia",
+    "state": "PA",
+    "rating": 5,
+    "description": "A historic brownstone located in the heart of Philadelphia's charming neighborhoods.",
+    "activities": ["Historical Sites", "Art Museums", "Cafes"],
+    "amenities": ["Antique Details", "Private Courtyard", "Updated Kitchen"]
+  },
+  {
+    "id": 8,
+    "title": "Mountain Retreat in Colorado",
+    "state": "CO",
+    "rating": 4,
+    "description": "A cozy mountain retreat offering stunning views in the state of Colorado.",
+    "activities": ["Skiing", "Hiking", "Mountain Biking"],
+    "amenities": ["Fireplace", "Hot Tub", "Deck"]
+  },
+  {
+    "id": 9,
+    "title": "Downtown Penthouse in Chicago",
+    "state": "IL",
+    "rating": 5,
+    "description": "A luxurious penthouse with skyline views in downtown Chicago.",
+    "activities": ["City Events", "Fine Dining", "Theater"],
+    "amenities": ["Penthouse Views", "Concierge", "Fitness Center"]
+  },
+  {
+    "id": 10,
+    "title": "Rustic Cabin in Montana",
+    "state": "MT",
+    "rating": 3,
+    "description": "A rustic cabin surrounded by nature in the beautiful state of Montana.",
+    "activities": ["Fishing", "Hiking", "Wildlife Watching"],
+    "amenities": ["Wood-Burning Fireplace", "Private Trails", "Deck"]
+  },
+  {
+    "id": 11,
+    "title": "Waterfront Villa in Miami",
+    "state": "FL",
+    "rating": 5,
+    "description": "A stunning waterfront villa perfect for a luxurious stay in Miami.",
+    "activities": ["Waterfront Dining", "Beach Parties", "Shopping"],
+    "amenities": ["Private Beach Access", "Infinity Pool", "Outdoor Lounge"]
+  },
+  {
+    "id": 12,
+    "title": "Contemporary Townhome in Seattle",
+    "state": "WA",
+    "rating": 4,
+    "description": "A contemporary townhome with modern amenities in the city of Seattle.",
+    "activities": ["Coffee Shops", "Tech Events", "Outdoor Recreation"],
+    "amenities": ["Modern Design", "Rooftop Deck", "Smart Home Features"]
+  },
+  {
+    "id": 13,
+    "title": "Elegant Mansion in Beverly Hills",
+    "state": "CA",
+    "rating": 5,
+    "description": "An elegant mansion nestled in the prestigious neighborhood of Beverly Hills.",
+    "activities": ["Luxury Shopping", "Fine Dining", "Celebrity Sightings"],
+    "amenities": ["Mansion Grounds", "Pool", "Home Theater"]
+  },
+  {
+    "id": 14,
+    "title": "Quaint Farmhouse in Iowa",
+    "state": "IA",
+    "rating": 3,
+    "description": "A quaint farmhouse surrounded by peaceful farmland in Iowa.",
+    "activities": ["Farmers Markets", "Country Drives", "Nature Walks"],
+    "amenities": ["Wraparound Porch", "Garden", "Quiet Retreat"]
+  },
+  {
+    "id": 15,
+    "title": "Urban Studio in New Orleans",
+    "state": "LA",
+    "rating": 4,
+    "description": "An urban studio in the lively city of New Orleans, perfect for city exploration.",
+    "activities": ["Live Music", "Cajun Cuisine", "Historic Tours"],
+    "amenities": ["Studio Design", "Walkable Location", "Balcony"]
+  },
+  {
+    "id": 16,
+    "title": "Lakefront Retreat in Michigan",
+    "state": "MI",
+    "rating": 5,
+    "description": "A lakefront retreat offering tranquility and stunning views in Michigan.",
+    "activities": ["Boating", "Fishing", "Nature Trails"],
+    "amenities": ["Private Lake Access", "Fire Pit", "Dock"]
+  },
+  {
+    "id": 17,
+    "title": "Ski Chalet in Aspen",
+    "state": "CO",
+    "rating": 4,
+    "description": "A cozy ski chalet in the famous skiing destination of Aspen, Colorado.",
+    "activities": ["Skiing", "Apres Ski", "Mountain Views"],
+    "amenities": ["Ski-In/Ski-Out", "Hot Tub", "Fireplace"]
+  },
+  {
+    "id": 18,
+    "title": "Beachfront Bungalow in Hawaii",
+    "state": "HI",
+    "rating": 5,
+    "description": "A beachfront bungalow offering a tropical paradise experience in Hawaii.",
+    "activities": ["Snorkeling", "Surfing", "Luau Parties"],
+    "amenities": ["Beachfront Living", "Tropical Garden", "Outdoor Shower"]
+  },
+  {
+    "id": 19,
+    "title": "Suburban Home in Texas",
+    "state": "TX",
+    "rating": 3,
+    "description": "A suburban home with a spacious yard in the heart of Texas.",
+    "activities": [
+      "Family-Friendly Attractions",
+      "Outdoor Recreation",
+      "Shopping"
+    ],
+    "amenities": ["Large Yard", "Play Area", "Modern Kitchen"]
+  },
+  {
+    "id": 20,
+    "title": "City View Apartment in Atlanta",
+    "state": "GA",
+    "rating": 4,
+    "description": "An apartment with stunning city views in the vibrant city of Atlanta.",
+    "activities": ["City Events", "Dining", "Cultural Festivals"],
+    "amenities": ["City View Balcony", "Fitness Center", "Convenient Location"]
+  }
+]
